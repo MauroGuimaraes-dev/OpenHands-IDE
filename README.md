@@ -1,3 +1,17 @@
+
+Projeto OpenHands
+Bem-vindo ao OpenHands (anteriormente OpenDevin), uma plataforma para agentes de desenvolvimento de software impulsionada por IA. 
+
+Os agentes OpenHands são capazes de realizar qualquer tarefa que um desenvolvedor humano pode fazer: modificar código, executar comandos, navegar na web, chamar APIs e até copiar trechos de código do StackOverflow.
+Para começar a usar o OpenHands, o método mais fácil é através do Docker. Visite o guia de instalação para mais informações sobre os requisitos de sistema e opções de configuração.
+Além disso, você precisará de um provedor de modelos e uma chave de API. A integração com o sistema de arquivos local, execução em modo sem interface gráfica, e interação via CLI são algumas das funcionalidades disponíveis.
+A documentação oferece recursos sobre como usar diferentes provedores de modelos de linguagem, dicas de solução de problemas e opções de configuração avançada.
+A comunidade OpenHands é impulsionada por contribuições, com comunicação principalmente via Slack, mas também disponível no Discord e GitHub. Novos colaboradores são bem-vindos para explorar o guia de contribuição.
+
+O projeto é distribuído sob a Licença MIT e agradece a todos os seus contribuidores, além de construir com base em outros projetos de código aberto. Para detalhes sobre as licenças e contribuições, consulte os arquivos de créditos.
+
+
+
 <a name="readme-top"></a>
 
 <div align="center">
